@@ -1,0 +1,2 @@
+Oi! Eu sou a Patrícia
+Estou aprendendo Git.
